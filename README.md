@@ -61,7 +61,7 @@ Visitors can contact me directly through the contact section with integrated ema
 After hosting on GitHub Pages, your website link will look like:
 
 ```bash
-https://yourusername.github.io/repository-name/
+[https://yourusername.github.io/repository-name/](https://osnvsrevanthkandhula.github.io/OSNVS-Revanth-Kandhula/)
 ```
 
 ## 📦 How to Run Locally
@@ -69,7 +69,7 @@ https://yourusername.github.io/repository-name/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+git clone [https://github.com/yourusername/repository-name.git](https://osnvsrevanthkandhula.github.io/OSNVS-Revanth-Kandhula/)
 ```
 
 2. Open the project folder
